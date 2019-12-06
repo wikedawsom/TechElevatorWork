@@ -1,0 +1,10 @@
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\bin\Debug\netcoreapp2.1\VendingMachineBackend.deps.json
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\bin\Debug\netcoreapp2.1\VendingMachineBackend.dll
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\bin\Debug\netcoreapp2.1\VendingMachineBackend.pdb
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\obj\Debug\netcoreapp2.1\VendingMachineBackend.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\obj\Debug\netcoreapp2.1\VendingMachineBackend.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\obj\Debug\netcoreapp2.1\VendingMachineBackend.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\obj\Debug\netcoreapp2.1\VendingMachineBackend.AssemblyInfo.cs
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\obj\Debug\netcoreapp2.1\VendingMachineBackend.dll
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\obj\Debug\netcoreapp2.1\VendingMachineBackend.pdb
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineBackend\bin\Debug\netcoreapp2.1\VendingMachine.txt

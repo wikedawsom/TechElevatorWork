@@ -1,0 +1,20 @@
+﻿@using ParkGeek.DAL.Models;
+@model IList<ParkModel>
+
+
+@section Title {
+    National Park Geek
+}
+
+@foreach (ParkModel park in Model)
+{
+    <div class="park-preview">
+        <div>
+            <a href="/Park/ParkDetail?parkCode=@park.Code"><img src="~/img/parks/@(park.Code.ToLower()).jpg" /></a>
+        </div>
+        <div>
+            <h4>@park.Name</h4>
+            <p>@park.Description</p>
+        </div>
+    </div>
+}

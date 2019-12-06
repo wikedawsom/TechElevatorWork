@@ -1,0 +1,22 @@
+Hiding 0 messages, 
+not allowing negative money, 
+fixing double inventory report bug,
+Have to reset counters even when still in program
+Take out slot identitifier in vending machine item class
+Change Dictonary to private 
+MAke vending name file name a constructor you pass into it
+We dont need slot number
+Make vending machine item instead of exclusives on add items to list so theres only one add, avoid duplication
+The only money entry is solid or .00, replace .00 with nothing and run as int
+Comment everything
+Unmagical the number 5, make a constant instead
+Add quantity dictonary for sales report that can be reset/sold report/cleared
+Change read sales report to file.read
+Change menu class from static
+And everything from static
+Call sales report from inside vendingmachine not CLI
+Comment why report is there
+In select method move machine.items to vending machine
+Group invalid selection response in error message
+use test vednign machine file
+usde display items for testing

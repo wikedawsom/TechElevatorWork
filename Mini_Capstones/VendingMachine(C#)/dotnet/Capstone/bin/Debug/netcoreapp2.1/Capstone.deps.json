@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Capstone/1.0.0": {
+        "dependencies": {
+          "VendingMachineCLI": "1.0.0"
+        },
+        "runtime": {
+          "Capstone.dll": {}
+        }
+      },
+      "VendingMachineBackend/1.0.0": {
+        "runtime": {
+          "VendingMachineBackend.dll": {}
+        }
+      },
+      "VendingMachineCLI/1.0.0": {
+        "dependencies": {
+          "VendingMachineBackend": "1.0.0"
+        },
+        "runtime": {
+          "VendingMachineCLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capstone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachineBackend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendingMachineCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

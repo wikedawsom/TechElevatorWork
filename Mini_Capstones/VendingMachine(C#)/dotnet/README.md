@@ -1,0 +1,1 @@
+You can start this program from the command line by using the command "dotnet run --project \Capstone\Capstone.csproj"

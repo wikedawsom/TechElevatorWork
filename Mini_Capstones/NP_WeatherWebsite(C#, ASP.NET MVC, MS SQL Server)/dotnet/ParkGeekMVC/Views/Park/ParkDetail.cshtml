@@ -1,0 +1,81 @@
+﻿@using ParkGeek.DAL.Models;
+@model ParkDetailViewModel
+
+@section Title {
+    National Park Geek
+}
+
+<div id="parkdetail">
+    <div id="park-detail">
+
+        <div class="park">
+
+            <img style="width:100%;" src="~/img/parks/@(Model.Park.Code.ToLower()).jpg" alt="@Model.Park.Name" />
+            <h3>@Model.Park.Name</h3>
+            <p><em>@Model.Park.Quote</em>  -@Model.Park.QuoteSource</p>
+            <p>@Model.Park.Description</p>
+        </div>
+
+    </div>
+    <div id="temp-options">
+        <form asp-controller="Park" asp-action="UseCelsius" method="get">
+            <input asp-for="ParkCode" hidden value="@Model.Park.Code" />
+            <button class="btn btn-primary temp-button">Use Celsuis</button>
+        </form>
+        <form asp-controller="Park" asp-action="UseFarenheit" method="get">
+            <input asp-for="ParkCode" hidden value="@Model.Park.Code" />
+            <button class="btn btn-primary temp-button">Use Farenheight</button>
+        </form>
+    </div>
+    <div id="weather">
+
+        <div class="today">
+
+            <h1>TODAY</h1>
+
+            <img src="~/img/weather/@(Model.Forecast[0].Forecast).png" />
+            <div class="temptoday">
+                <p>
+                    High Temp: @Model.Forecast[0].HighTemp    Low Temp: @Model.Forecast[0].LowTemp
+                </p>
+            </div>
+            <div class="weatherwarning">
+                @Model.weatherWarning(0)
+            </div>
+
+        </div>
+
+
+        @for (int i = 1; i < Model.Forecast.Count; i++)
+        {
+            <div class="singleday">
+
+
+                <img src="~/img/weather/@(Model.Forecast[i].Forecast).png" />
+
+                <div class="hightemp">
+                    <p>
+                        High Temp:
+                        @Model.Forecast[i].HighTemp
+                    </p>
+                </div>
+                <div class="lowtemp">
+                    <p>
+                        Low Temp:
+                        @Model.Forecast[i].LowTemp
+                    </p>
+                </div>
+                <div class="weatherwarning">
+                    @Model.weatherWarning(i)
+                </div>
+
+
+            </div>
+        }
+
+    </div>
+
+
+</div>
+
+

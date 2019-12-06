@@ -1,0 +1,15 @@
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\NPDBCommandLineInterface.deps.json
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\NPDBCommandLineInterface.runtimeconfig.json
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\NPDBCommandLineInterface.runtimeconfig.dev.json
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\NPDBCommandLineInterface.dll
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\NPDBCommandLineInterface.pdb
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\Capstone.dll
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\bin\Debug\netcoreapp2.2\Capstone.pdb
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.AssemblyInfo.cs
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.csproj.CopyComplete
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.dll
+C:\Users\Student\Workspace\Teamwork\team5-c-week6-pair-exercises\09_Capstone\dotnet\NPDBCommandLineInterface\obj\Debug\netcoreapp2.2\NPDBCommandLineInterface.pdb

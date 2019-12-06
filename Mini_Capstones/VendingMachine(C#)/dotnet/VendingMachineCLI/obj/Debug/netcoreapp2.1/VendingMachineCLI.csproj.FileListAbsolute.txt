@@ -1,0 +1,13 @@
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.deps.json
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.dll
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.pdb
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.csprojAssemblyReference.cache
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.csproj.CoreCompileInputs.cache
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.AssemblyInfoInputs.cache
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.AssemblyInfo.cs
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.dll
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.pdb
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineBackend.dll
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineBackend.pdb
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.csproj.CopyComplete
+C:\Users\Student\Workspace\Teamwork\team4-c-week4-pair-exercises\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachine.txt
